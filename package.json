@@ -1,0 +1,19 @@
+{ 
+   "name": "pg8",
+   "theme": "syntax",
+   "version": "0.0.0",
+   "description": "แทงบอลออนไลน์ ทางเข้าpg สล็อต",
+   "keywords": [
+     "แทงบอลออนไลน์",
+     "สล็อต888",
+     "สล็อตxo",
+     "ทางเข้าเล่น pg slot"
+   ],
+   "repository": "https://github.com/blanktrader1985/pg8.git",
+   "license": "MIT",
+   "engines": {
+     "atom": ">=1.0.0 <2.0.0"
+   }
+ }
+          
+
